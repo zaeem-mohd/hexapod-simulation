@@ -37,7 +37,7 @@ cd hexapod-simulation
 
 Run the simulation using your Anaconda prompt or standard terminal:
 
-python wave_sim_fixed.py
+python main.py
 
 
 🎮 Simulation Controls
